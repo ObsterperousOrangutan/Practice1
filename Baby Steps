@@ -1,0 +1,3 @@
+####Practice from "Python Crash Course: A Hands on, Project-Based, Introduction to Programming." by Eric Matthes.
+name = "ada lovelace"
+print(name.title())
